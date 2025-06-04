@@ -1,0 +1,65 @@
+/* ----------- Responsiv pentru tablete și telefoane ----------- */
+@media (max-width: 768px) {
+  .layout {
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .sidebar {
+    width: 100%;
+    position: static;
+  }
+
+  .main-content {
+    width: 100%;
+  }
+
+  .menu-categories {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    padding: 10px 0;
+    justify-items: center; /* Asigură că meniul se centrează */
+  }
+
+  .menu-category-box {
+    width: 80%; /* Reduceți lățimea pentru a încăpea pe ecrane mai mici */
+    margin: 0 auto;
+  }
+
+  .menu-item img {
+    width: 5.625rem;
+    height: 5.625rem;
+  }
+}
+
+@media (max-width: 500px) {
+  .menu-categories {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    gap: 1.25rem;
+  }
+
+  .menu-category-box {
+    width: 90%;
+    max-width: 18rem;
+    margin: 0 auto;
+  }
+
+  .sidebar h2 {
+    font-size: 1.125rem;
+  }
+
+  .sidebar p {
+    font-size: 0.8125rem;
+  }
+
+  .menu-item img {
+    width: 5.625rem;
+    height: 5.625rem;
+  }
+}

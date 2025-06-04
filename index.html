@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Location Gallery</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="mobile-fix.css" />
+
+    <link rel="icon" type="image/png" href="./galerie/menu.png" />
+  </head>
+  <body>
+    <div class="menu-categories">
+      <a
+        class="menu-item"
+        href="https://www.instagram.com/xhamanmallorca/?hl=en"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img src="./galerie/banner.jpg" alt="Xhaman" />
+        <h4>🌮🌶️🪅 Xhaman</h4>
+      </a>
+
+      <a
+        class="menu-item"
+        href="https://www.littleitalymallorca.com"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img src="./galerie/little_italy.jpg" alt="Little Italy" />
+        <h4>🧀🍃🍅Little Italy</h4>
+      </a>
+
+      <a
+        class="menu-item"
+        href="https://www.tripadvisor.com/Restaurant_Review-g662296-d19785860-Reviews-Xhili_Burger-Playa_de_Palma_Majorca_Balearic_Islands.html"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img src="./galerie/Xhily.png" alt="Xchily burger" />
+        <h4>🍔 XChily burger</h4>
+      </a>
+
+      <a
+        class="menu-item"
+        href="https://www.hotelplayagolf.com/es"
+        target="_blank"
+        rel="noopener noreferrer"
+      >
+        <img src="./galerie/HPGolf.jpg" alt="Hotel Playa Golf" />
+        <h4>🏝️🌴🏖️ Hotel Playa Golf</h4>
+      </a>
+    </div>
+
+    <div class="search-bar">
+      <input type="text" id="searchInput" placeholder="Search dishes..." />
+      <button onclick="handleGlobalSearch()">🔍</button>
+      <div id="suggestions" class="suggestions"></div>
+    </div>
+
+    <!-- 🔙 Buton de Back -->
+    <button id="backButton" class="back-button" style="display: none">
+      🔙 Back
+    </button>
+
+    <div class="layout">
+      <aside class="sidebar">
+        <h2>About Us</h2>
+        <div class="sidebar-banner">
+          <img src="./galerie/banner2.webp" alt="Food visual" />
+        </div>
+        <div class="location-info">
+          <p>
+            Welcome to our culinary corner! Each of our locations offers a
+            unique experience with authentic flavors and a welcoming atmosphere.
+          </p>
+          <h3>🌮 Xhaman</h3>
+          <p>
+            Modern Mexican cuisine with tacos, quesadillas, and artisan burgers.
+            A vibrant and colorful atmosphere.
+          </p>
+          <h3>🍕 Little Italy</h3>
+          <p>
+            Authentic Italian cuisine: artisan pizzas, traditional pastas, and
+            delicious desserts.
+          </p>
+          <h3>🍔 XHily Burger</h3>
+          <p>
+            Smash burgers and loaded fries with bold flavors. A modern
+            street-food twist.
+          </p>
+          <h3>🏖️ Hotel Playa Golf</h3>
+          <p>
+            International cuisine with a beachside touch. Perfect for relaxed
+            evenings and special occasions.
+          </p>
+        </div>
+      </aside>
+
+      <main class="main-content">
+        <div id="categoriesPage" class="categories-page"></div>
+        <div id="galleryPage" class="gallery hidden">
+          <h2 id="galleryTitle">Category</h2>
+          <div id="galleryImages" class="gallery-images"></div>
+        </div>
+      </main>
+    </div>
+
+    <div class="lightbox hidden" id="lightbox" onclick="closeLightbox()">
+      <img id="lightboxImage" src="" alt="Lightbox Image" />
+    </div>
+
+    <audio id="backgroundAudio" loop>
+      <source
+        src="./audio/follow-me-ai-music-technology-electronic-dence-233315 (1).mp3"
+        type="audio/mpeg"
+      />
+      Your browser does not support the audio element.
+    </audio>
+
+    <button id="audioToggle"><span class="audio-icon">🔇</span></button>
+
+    <select id="languageSelect" title="Change language">
+      <option value="en">🇬🇧 EN</option>
+      <option value="es">🇪🇸 ES</option>
+      <option value="de">🇩🇪 DE</option>
+    </select>
+    <button id="themeToggle" title="Toggle light/dark mode">🌓</button>
+
+    <footer class="footer">
+      <div class="footer-content">
+        <p>
+          © 2025 XFood Gallery · Crafted with <span>❤️</span> by Ileana Camelia
+        </p>
+        <div class="footer-links">
+          <a href="#">Home</a>
+          <a href="#">About</a>
+          <a href="#">Contact</a>
+          <a href="#">Instagram</a>
+        </div>
+      </div>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>

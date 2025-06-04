@@ -1,0 +1,484 @@
+{
+    "xhaman": {
+      "title": "Xhaman",
+      "categories": {
+ "entrantes": [
+  {
+    "src": "./galerie/guacamole.webp",
+    "name": {
+      "es": "Guacamole",
+      "en": "Guacamole",
+      "de": "Guacamole"
+    }
+  },
+  {
+    "src": "./galerie/nachos_con_queso.webp",
+    "name": {
+      "es": "Nachos con Queso",
+      "en": "Nachos with Cheese",
+      "de": "Nachos mit Käse"
+    }
+  },
+  {
+    "src": "./galerie/aguachile_de_gambas.webp",
+    "name": {
+      "es": "Aguachile de Gambas",
+      "en": "Prawn Aguachile",
+      "de": "Garnelen-Aguachile"
+    }
+  },
+  {
+    "src": "./galerie/langostinosTNT.webp",
+    "name": {
+      "es": "Langostinos TNT",
+      "en": "TNT Prawns",
+      "de": "TNT Garnelen"
+    }
+  },
+  {
+    "src": "./galerie/anillas_de_calamar.webp",
+    "name": {
+      "es": "Anillas de Calamar",
+      "en": "Squid Rings",
+      "de": "Tintenfischringe"
+    }
+  },
+  {
+    "src": "./galerie/jamon_iberico.webp",
+    "name": {
+      "es": "Jamón Ibérico",
+      "en": "Iberian Ham",
+      "de": "Ibérico-Schinken"
+    }
+  },
+  {
+    "src": "./galerie/croquetas.webp",
+    "name": {
+      "es": "Croquetas",
+      "en": "Croquettes",
+      "de": "Kroketten"
+    }
+  },
+  {
+    "src": "./galerie/tartar_de_atun.webp",
+    "name": {
+      "es": "Tartar de Atún",
+      "en": "Tuna Tartare",
+      "de": "Thunfisch-Tatar"
+    }
+  },
+  {
+    "src": "./galerie/parillada_de_verduras.webp",
+    "name": {
+      "es": "Parillada de Verduras",
+      "en": "Grilled Vegetables",
+      "de": "Gegrilltes Gemüse"
+    }
+  },
+  {
+    "src": "./galerie/pan_con_alioli.webp",
+    "name": {
+      "es": "Pan con Alioli",
+      "en": "Bread with Aioli",
+      "de": "Brot mit Aioli"
+    }
+  }
+],
+
+"ensaladas_pokes": [
+  {
+    "src": "./galerie/ensalada_cesar.webp",
+    "name": {
+      "es": "Ensalada César",
+      "en": "Caesar Salad",
+      "de": "Caesar-Salat"
+    }
+  },
+  {
+    "src": "./galerie/ensalada_langostinos.webp",
+    "name": {
+      "es": "Ensalada de Langostinos",
+      "en": "Prawn Salad",
+      "de": "Garnelensalat"
+    }
+  },
+  {
+    "src": "./galerie/poke_pollo.webp",
+    "name": {
+      "es": "Poke de Pollo",
+      "en": "Chicken Poke Bowl",
+      "de": "Poke Bowl mit Hähnchen"
+    }
+  },
+  {
+    "src": "./galerie/poke_atun.webp",
+    "name": {
+      "es": "Poke de Atún",
+      "en": "Tuna Poke Bowl",
+      "de": "Poke Bowl mit Thunfisch"
+    }
+  },
+  {
+    "src": "./galerie/poke_hawaii.webp",
+    "name": {
+      "es": "Poke Hawaii",
+      "en": "Hawaiian Poke Bowl",
+      "de": "Hawaii Poke Bowl"
+    }
+  }
+],
+
+"tacos": [
+  {
+    "src": "./galerie/tacos_ternera.webp",
+    "name": {
+      "es": "Tacos de Ternera",
+      "en": "Beef Tacos",
+      "de": "Rindfleisch-Tacos"
+    }
+  },
+  {
+    "src": "./galerie/tacos_pollo.webp",
+    "name": {
+      "es": "Tacos de Pollo",
+      "en": "Chicken Tacos",
+      "de": "Hähnchen-Tacos"
+    }
+  },
+  {
+    "src": "./galerie/tacos_gambas.webp",
+    "name": {
+      "es": "Tacos de Gambas",
+      "en": "Prawn Tacos",
+      "de": "Garnelen-Tacos"
+    }
+  },
+  {
+    "src": "./galerie/tacos_atun.webp",
+    "name": {
+      "es": "Tacos de Atún",
+      "en": "Tuna Tacos",
+      "de": "Thunfisch-Tacos"
+    }
+  },
+  {
+    "src": "./galerie/tacos_cerdo.webp",
+    "name": {
+      "es": "Tacos Hawaii",
+      "en": "Hawaiian Pork Tacos",
+      "de": "Hawaii-Schweinefleisch-Tacos"
+    }
+  }
+],
+"quesadillas": [
+  {
+    "src": "./galerie/quesadilla_quesso.webp",
+    "name": {
+      "es": "Quesadilla con Queso",
+      "en": "Cheese Quesadilla",
+      "de": "Käse-Quesadilla"
+    }
+  },
+  {
+    "src": "./galerie/quesadilla_champinones.webp",
+    "name": {
+      "es": "Quesadilla de Champiñones",
+      "en": "Mushroom Quesadilla",
+      "de": "Champignon-Quesadilla"
+    }
+  },
+  {
+    "src": "./galerie/quesadilla_pollo.webp",
+    "name": {
+      "es": "Quesadilla de Pollo",
+      "en": "Chicken Quesadilla",
+      "de": "Hähnchen-Quesadilla"
+    }
+  }
+],
+
+
+"smash_burgers": [
+  {
+    "src": "./galerie/cozumel.webp",
+    "name": {
+      "es": "Hamburguesa Cozumel",
+      "en": "Cozumel Burger",
+      "de": "Cozumel Burger"
+    }
+  },
+  {
+    "src": "./galerie/cheese_burger.webp",
+    "name": {
+      "es": "Hamburguesa con Queso",
+      "en": "Cheese Burger",
+      "de": "Käseburger"
+    }
+  },
+  {
+    "src": "./galerie/big_xhaman.webp",
+    "name": {
+      "es": "Big Xhaman",
+      "en": "Big Xhaman",
+      "de": "Big Xhaman"
+    }
+  },
+  {
+    "src": "./galerie/mamaxita.webp",
+    "name": {
+      "es": "Mamaxita",
+      "en": "Mamaxita",
+      "de": "Mamaxita"
+    }
+  },
+  {
+    "src": "./galerie/barbacoa.webp",
+    "name": {
+      "es": "Hamburguesa Barbacoa",
+      "en": "Barbacoa Burger",
+      "de": "Barbacoa Burger"
+    }
+  },
+  {
+    "src": "./galerie/vegiee.webp",
+    "name": {
+      "es": "Hamburguesa Vegetariana",
+      "en": "Veggie Burger",
+      "de": "Vegetarischer Burger"
+    }
+  },
+  {
+    "src": "./galerie/xickenitzal.png",
+    "name": {
+      "es": "Xickenitzal",
+      "en": "Xickenitzal",
+      "de": "Xickenitzal"
+    }
+  }
+],
+
+"pescados": [
+  {
+    "src": "./galerie/salmon.webp",
+    "name": {
+      "es": "Salmón a la Plancha",
+      "en": "Grilled Salmon",
+      "de": "Gegrillter Lachs"
+    }
+  },
+  {
+    "src": "./galerie/atun.webp",
+    "name": {
+      "es": "Atún Marinado",
+      "en": "Marinated Tuna",
+      "de": "Marinierter Thunfisch"
+    }
+  },
+  {
+    "src": "./galerie/calamar.webp",
+    "name": {
+      "es": "Calamar Frito",
+      "en": "Fried Squid",
+      "de": "Frittierter Tintenfisch"
+    }
+  },
+  {
+    "src": "./galerie/mejillones.webp",
+    "name": {
+      "es": "Mejillones al Vapor",
+      "en": "Steamed Mussels",
+      "de": "Gedämpfte Miesmuscheln"
+    }
+  },
+  {
+    "src": "./galerie/coquinas.webp",
+    "name": {
+      "es": "Coquinas a la Plancha",
+      "en": "Grilled Coquinas",
+      "de": "Gegrillte Herzmuscheln"
+    }
+  }
+],
+
+"carnes": [
+  {
+    "src": "./galerie/escalope.webp",
+    "name": {
+      "es": "Escalope Clásico",
+      "en": "Classic Escalope",
+      "de": "Klassisches Schnitzel"
+    }
+  },
+  {
+    "src": "./galerie/escalope_napolitano.webp",
+    "name": {
+      "es": "Escalope Napolitano",
+      "en": "Neapolitan Escalope",
+      "de": "Neapolitanisches Schnitzel"
+    }
+  },
+  {
+    "src": "./galerie/escalope_diabla.webp",
+    "name": {
+      "es": "Escalope a la Diabla",
+      "en": "Spicy Escalope",
+      "de": "Scharfes Schnitzel"
+    }
+  },
+  {
+    "src": "./galerie/costillas_de_cerdo.webp",
+    "name": {
+      "es": "Costillas de Cerdo",
+      "en": "Pork Ribs",
+      "de": "Schweinerippchen"
+    }
+  },
+  {
+    "src": "./galerie/entricote_angus.webp",
+    "name": {
+      "es": "Entrecôte Angus",
+      "en": "Angus Entrecôte",
+      "de": "Angus Entrecôte"
+    }
+  },
+  {
+    "src": "./galerie/solomillo.webp",
+    "name": {
+      "es": "Solomillo",
+      "en": "Tenderloin",
+      "de": "Filetsteak"
+    }
+  },
+  {
+    "src": "./galerie/surf&turf.webp",
+    "name": {
+      "es": "Surf & Turf",
+      "en": "Surf & Turf",
+      "de": "Surf & Turf"
+    }
+  }
+],
+
+"menu_ninos": [
+  {
+    "src": "./galerie/hamburgesa_ninos.webp",
+    "name": {
+      "es": "Mini Hamburguesa",
+      "en": "Mini Burger",
+      "de": "Mini-Burger"
+    }
+  },
+  {
+    "src": "./galerie/nuggets_ninos.webp",
+    "name": {
+      "es": "Nuggets de Pollo",
+      "en": "Chicken Nuggets",
+      "de": "Hähnchen-Nuggets"
+    }
+  }
+],
+
+
+"postres": [
+  {
+    "src": "./galerie/Trufas_de_chocolate.webp",
+    "name": {
+      "es": "Trufas de Chocolate",
+      "en": "Chocolate Truffles",
+      "de": "Schokoladentrüffel"
+    }
+  },
+  {
+    "src": "./galerie/pastel_chocolate.webp",
+    "name": {
+      "es": "Pastel de Chocolate",
+      "en": "Chocolate Cake",
+      "de": "Schokoladenkuchen"
+    }
+  },
+  {
+    "src": "./galerie/Bunuelos.webp",
+    "name": {
+      "es": "Buñuelos",
+      "en": "Fried Dough Fritters",
+      "de": "Spanische Krapfen"
+    }
+  },
+  {
+    "src": "./galerie/Pan_de_Elote.webp",
+    "name": {
+      "es": "Pan de Elote",
+      "en": "Sweet Corn Cake",
+      "de": "Maiskuchen"
+    }
+  },
+  {
+    "src": "./galerie/Mousse_de_mango.webp",
+    "name": {
+      "es": "Mousse de Mango",
+      "en": "Mango Mousse",
+      "de": "Mangomousse"
+    }
+  },
+  {
+    "src": "./galerie/Pastel_de_limon.webp",
+    "name": {
+      "es": "Pastel de Limón",
+      "en": "Lemon Cake",
+      "de": "Zitronenkuchen"
+    }
+  },
+  {
+    "src": "./galerie/Empanadas.webp",
+    "name": {
+      "es": "Empanadas Dulces",
+      "en": "Sweet Empanadas",
+      "de": "Süße Empanadas"
+    }
+  },
+  {
+    "src": "./galerie/Flan_Mexicano.webp",
+    "name": {
+      "es": "Flan Mexicano",
+      "en": "Mexican Flan",
+      "de": "Mexikanischer Flan"
+    }
+  },
+  {
+    "src": "./galerie/Churros_con_chocolate.webp",
+    "name": {
+      "es": "Churros con Chocolate",
+      "en": "Churros with Chocolate",
+      "de": "Churros mit Schokolade"
+    }
+  },
+  {
+    "src": "./galerie/Pastel_Tres_Leches.webp",
+    "name": {
+      "es": "Pastel Tres Leches",
+      "en": "Tres Leches Cake",
+      "de": "Dreimilchkuchen"
+    }
+  },
+  {
+    "src": "./galerie/Pastel_helado.webp",
+    "name": {
+      "es": "Pastel Helado",
+      "en": "Ice Cream Cake",
+      "de": "Eiskuchen"
+    }
+  },
+  {
+    "src": "./galerie/Pastel_de_chocolate_con_canela_y_chile.webp",
+    "name": {
+      "es": "Pastel de Chocolate con Canela y Chile",
+      "en": "Chocolate Cake with Cinnamon and Chili",
+      "de": "Schokoladenkuchen mit Zimt und Chili"
+    }
+  }
+]
+
+
+  }
+ }
+}

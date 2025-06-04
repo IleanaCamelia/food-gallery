@@ -1,0 +1,51 @@
+{
+    "en": {
+      "about": "About Us",
+      "xhaman": "Modern Mexican cuisine with tacos, quesadillas, and artisan burgers. A vibrant and colorful atmosphere.",
+      "little_italy": "Authentic Italian cuisine: artisan pizzas, traditional pastas, and delicious desserts.",
+      "xhily": "Smash burgers and loaded fries with bold flavors. A modern street-food twist.",
+      "hotel": "International cuisine with a beachside touch. Perfect for relaxed evenings and special occasions.",
+      "entrantes": "Starters",
+      "ensaladas_pokes": "Salads & Pokes",
+      "tacos": "Tacos",
+      "quesadillas": "Quesadillas",
+      "smash_burgers": "Smash Burgers",
+      "pescados": "Fish",
+      "carnes": "Meats",
+      "menu_ninos": "Kids Menu",
+      "postres": "Desserts"
+    },
+    "es": {
+      "about": "Sobre Nosotros",
+      "xhaman": "Cocina mexicana moderna con tacos, quesadillas y hamburguesas artesanales. Un ambiente vibrante y colorido.",
+      "little_italy": "Cocina italiana auténtica: pizzas artesanales, pastas tradicionales y deliciosos postres.",
+      "xhily": "Hamburguesas smash y papas cargadas con sabores intensos. Un toque moderno de comida callejera.",
+      "hotel": "Cocina internacional con un toque junto a la playa. Perfecta para noches relajadas y ocasiones especiales.",
+      "entrantes": "Entrantes",
+      "ensaladas_pokes": "Ensaladas y Pokes",
+      "tacos": "Tacos",
+      "quesadillas": "Quesadillas",
+      "smash_burgers": "Hamburguesas Smash",
+      "pescados": "Pescados",
+      "carnes": "Carnes",
+      "menu_ninos": "Menú para Niños",
+      "postres": "Postres"
+    },
+    "de": {
+      "about": "Über Uns",
+      "xhaman": "Moderne mexikanische Küche mit Tacos, Quesadillas und handgemachten Burgern. Eine lebendige, farbenfrohe Atmosphäre.",
+      "little_italy": "Authentische italienische Küche: handgemachte Pizzen, traditionelle Pasta und köstliche Desserts.",
+      "xhily": "Smash-Burger und beladene Pommes mit kräftigen Aromen. Ein moderner Streetfood-Twist.",
+      "hotel": "Internationale Küche mit Strandflair. Perfekt für entspannte Abende und besondere Anlässe.",
+      "entrantes": "Vorspeisen",
+      "ensaladas_pokes": "Salate & Pokes",
+      "tacos": "Tacos",
+      "quesadillas": "Quesadillas",
+      "smash_burgers": "Smash Burgers",
+      "pescados": "Fisch",
+      "carnes": "Fleisch",
+      "menu_ninos": "Kindermenü",
+      "postres": "Desserts"
+    }
+  }
+  
