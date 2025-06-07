@@ -14,6 +14,7 @@ A static image gallery designed as a restaurant menu. Built with **HTML**, **CSS
 ![Dark Mode](./Dark.png)
 
 
+
 ## 🧰 Technologies Used
 - HTML5
 - CSS3
