@@ -8,10 +8,10 @@ A static image gallery designed as a restaurant menu. Built with **HTML**, **CSS
 ## 🖼️ Preview
 
 ### Light Mode
-![Light Mode](./light.png)
+![Light Mode](./Light.png)
 
 ### Dark Mode
-![Dark Mode](./dark.png)
+![Dark Mode](./Dark.png)
 
 
 ## 🧰 Technologies Used
