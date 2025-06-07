@@ -5,13 +5,7 @@ A static image gallery designed as a restaurant menu. Built with **HTML**, **CSS
 ## 🔗 Live Demo
 [Click to view the project](https://ileanacamelia.github.io/food-gallery/)
 
-## 🖼️ Preview
 
-### Light Mode
-![Light Mode](./Light.png)
-
-### Dark Mode
-![Dark Mode](./Dark.png)
 
 
 
