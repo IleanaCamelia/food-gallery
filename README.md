@@ -30,7 +30,7 @@ A static image gallery designed as a restaurant menu. Built with **HTML**, **CSS
 - `audio/` – Optional sound feedback
 
 ## 👩‍💻 Author
-**Camelia Cilioaica**  
+**Ileana Camelia Cilioaica**  
 Mallorca, Spain  
 [cilioaica.camelia@gmail.com](mailto:cilioaica.camelia@gmail.com)
 
